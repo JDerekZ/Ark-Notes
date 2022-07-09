@@ -1,0 +1,11 @@
+C:\Users\jdere\OneDrive\Documentos\Programación II\ArkNotes\ArkNotes\bin\Debug\ArkNotes.exe.config
+C:\Users\jdere\OneDrive\Documentos\Programación II\ArkNotes\ArkNotes\bin\Debug\ArkNotes.exe
+C:\Users\jdere\OneDrive\Documentos\Programación II\ArkNotes\ArkNotes\bin\Debug\ArkNotes.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\ArkNotes\ArkNotes\obj\Debug\ArkNotes.csproj.AssemblyReference.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\ArkNotes\ArkNotes\obj\Debug\ArkNotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\ArkNotes\ArkNotes\obj\Debug\ArkNotes.frmArkNotes.resources
+C:\Users\jdere\OneDrive\Documentos\Programación II\ArkNotes\ArkNotes\obj\Debug\ArkNotes.Properties.Resources.resources
+C:\Users\jdere\OneDrive\Documentos\Programación II\ArkNotes\ArkNotes\obj\Debug\ArkNotes.csproj.GenerateResource.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\ArkNotes\ArkNotes\obj\Debug\ArkNotes.csproj.CoreCompileInputs.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\ArkNotes\ArkNotes\obj\Debug\ArkNotes.exe
+C:\Users\jdere\OneDrive\Documentos\Programación II\ArkNotes\ArkNotes\obj\Debug\ArkNotes.pdb
